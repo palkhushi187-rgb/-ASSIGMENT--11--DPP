@@ -1,6 +1,3 @@
-# -ASSIGMENT--11--DPP
-# DDP Assignment – One Sample t-Test
-
 ## 📌 Project Description
 This repository contains solutions to statistical problems based on **One-Sample t-Test**.  
 The assignment focuses on hypothesis testing using real-life examples such as customer satisfaction, school performance, sales analysis, product quality, and demographic data.
